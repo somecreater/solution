@@ -26,8 +26,7 @@
 
 * 자세한 진행 상황이나, 프로젝트에 관한 모든 것은 해당 링크를 참조
 
-https://www.notion.so/14b0adf296684edcb08f969115bb7c13?pvs=4
-
+https://deadpan-temper-79c.notion.site/14b0adf296684edcb08f969115bb7c13?pvs=4
 
 ## 사전 기술 조사, 새로운 서비스의 차별점
 
