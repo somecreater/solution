@@ -24,9 +24,10 @@
 
 ## 사전 기술 조사, 새로운 서비스의 차별점
 
-* **Notion 링크**:
+* **Notion 링크**: https://www.notion.so/a20be6c9018345a1abe3e62a053e139c?v=7e43c8977c0f481d8766ee20c9269a41&pvs=4
 
 ## 목표
+
 
 
 ## 개발 기간
