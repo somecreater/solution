@@ -52,9 +52,11 @@ https://deadpan-temper-79c.notion.site/a20be6c9018345a1abe3e62a053e139c?v=7e43c8
 개발 기한
 2024년 7월 21일부터 시작하고 약 2개월~3개월 정도 예상 
 
+
 * 자세한 것은 해당 링크를 참조
 
-https://deadpan-temper-79c.notion.site/a20be6c9018345a1abe3e62a053e139c?v=7e43c8977c0f481d8766ee20c9269a41&pvs=4
+https://deadpan-temper-79c.notion.site/9c962d9310aa461fb7ac209163776b54?v=80583ef04e37475881f4895f456e81fa&pvs=4
+
 
 ## 요구 사항
 
