@@ -103,3 +103,8 @@ https://deadpan-temper-79c.notion.site/9c962d9310aa461fb7ac209163776b54?v=80583e
 ## 프로젝트를 하면서 겪었던 문제점 및 해결 방안
 
 https://deadpan-temper-79c.notion.site/b55581170c194fdeb8ff6e4fc0e5d2f1?pvs=4
+
+
+## 프로젝트 변경사항
+
+
